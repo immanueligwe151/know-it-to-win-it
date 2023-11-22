@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\bin\Debug\know_it_to_win_it_program.exe.config
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\bin\Debug\know_it_to_win_it_program.exe
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\bin\Debug\know_it_to_win_it_program.pdb
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.Properties.Resources.resources
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.exe
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.pdb
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.User_Name.resources
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.MainMenu.resources
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.RevisionMode.resources
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.SelectingMode.resources
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.Store.resources
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.QuizMode.resources
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.HintWindow.resources
+C:\Users\Admin\Documents\My Programs\know_it_to_win_it_program\obj\Debug\know_it_to_win_it_program.csproj.AssemblyReference.cache
